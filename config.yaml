@@ -1,0 +1,75 @@
+csv_file: 'URL_list.csv'
+num_sites: 100
+random_seed: 22
+product_types:
+  - Chair
+  - Table
+  - Sofa
+  - Bed
+  - Dresser
+  - Desk
+  - Bookshelf
+  - Cabinet
+  - Wardrobe
+  - Nightstand
+  - Ottoman
+  - Armchair
+  - Loveseat
+  - Sectional
+  - Coffee Table
+  - Dining Table
+  - End Table
+  - Console Table
+  - TV Stand
+  - Entertainment Center
+  - Sideboard
+  - Buffet
+  - China Cabinet
+  - Hutch
+  - Bench
+  - Stool
+  - Bar Stool
+  - Rocking Chair
+  - Recliner
+  - Chaise Lounge
+  - Futon
+  - Daybed
+  - Bunk Bed
+  - Loft Bed
+  - Trundle Bed
+  - Vanity
+  - Mirror
+  - Coat Rack
+  - Shoe Rack
+  - Filing Cabinet
+  - Credenza
+  - Workstation
+  - Computer Desk
+  - Writing Desk
+  - Standing Desk
+  - Dining Chair
+  - Office Chair
+  - Accent Chair
+  - Bean Bag
+  - Pouf
+  - Hammock
+  - Swing Chair
+  - Folding Chair
+  - Massage Chair
+  - Gaming Chair
+  - Barstool
+  - Kitchen Island
+  - Pantry
+  - Shelving Unit
+  - Storage Bench
+  - Trunk
+  - Chest of Drawers
+  - Armoire
+  - Media Console
+  - Room Divider
+  - Headboard
+  - Footboard
+  - Mattress
+  - Box Spring
+new_pages_csv: 'new_furniture_websites.csv'
+output_csv: 'extracted_products.csv'
